@@ -31,7 +31,7 @@ export default function HomePage() {
 
             {/* CTA Button */}
             <Button className="bg-pink-500 hover:bg-pink-600 text-white px-10 py-8 rounded-full text-lg font-medium">
-              GET STARTED
+             <a href="/login" > GET STARTED </a>
             </Button>
           </div>
         </div>
